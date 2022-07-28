@@ -44,7 +44,7 @@ end
 % End initialization code - DO NOT EDIT
 
 
-% --- Executes just before Video_GUI is made visible.
+% --- Executes just before Video_GUI is made visible. Test
 function Video_GUI_OpeningFcn(hObject, eventdata, handles, varargin)
 % This function has no output args, see OutputFcn.
 % varargin   command line arguments to Video_GUI (see VARARGIN)
